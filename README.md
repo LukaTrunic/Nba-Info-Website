@@ -30,8 +30,8 @@ This project is a static personal website built using HTML, CSS, and JavaScript.
 
 Include here if available:
 ```
-![Homepage](screenshots/home.png)
-![Gallery](screenshots/gallery.png)
+![Homepage](home.png)
+![Gallery](gallery.png)
 ```
 
 ## ✨ Features
