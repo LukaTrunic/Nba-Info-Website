@@ -28,11 +28,9 @@ This project is a static personal website built using HTML, CSS, and JavaScript.
 
 ## 📸 Screenshots
 
-Include here if available:
-```
-![Homepage](home.png)
-![Gallery](gallery.png)
-```
+![System Overview](home.png)
+
+![System Overview](gallery.png)
 
 ## ✨ Features
 
